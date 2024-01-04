@@ -1,0 +1,46 @@
+<!Doctype html>
+<html>
+<head>
+<title>PEACE FOUNDATION...</title>
+</head>
+<Body>
+<style>
+body {
+  background-image: url('Uhh.jpg');
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+</style> 
+<br>
+<br>
+<h1 style="text-align:center; color:hotpink;">Thank you very much for helping us...</h1>
+<br>
+<table border=2>
+<ol>
+<tr><H1 style="text-align:center;">TRANSACTION PROCESS</H1></tr>
+<br>
+<tr><l1>Go to your momo menu...</tr>
+<tr><l1>Choose transfer money from the menu...</tr>
+<tr><l1>choose Mtn...</tr>
+<tr><l1>Type in the number blow to the recepient number menu...</tr>
+<tr><l1>0536564291</tr>
+<tr><l1>Confirm the transfer...</tr>
+<tr>***Confirm for the NAME: PAULINA ASARE...</tr>
+<br>
+<tr>Thanks to those who did help us by follow this steps...<tr>
+</table>
+<br>
+<h1 style="text-align:center; color:orange;">CONGRATULATIONS for making us happy...</h1>
+<br>
+<img align=center src="gh.jpg" height=500 width=1200/>
+<br>
+<h1 style="text-align:center; color:orange;">Dear Father/Mother/Brother/Sister, We are so appreciative of your generous gift that means the world to us...</h1>
+<br>
+<br>
+<br>
+<h1 style="text-align:center;">Luke 12:33
+<br>Sell your possessions and give to the poor. Provide purses for yourselves that will not wear out, a treasure in heaven that will never fail, where no thief comes near and no moth destroys.</h1>
+</Body>
+</html>
